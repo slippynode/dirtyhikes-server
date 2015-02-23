@@ -1,0 +1,24 @@
+{
+  "name": "dirtyhikes-server",
+  "version": "0.0.1-dev",
+  "description": "PostgreSQL ORM and REST API for dirtyhikes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slippynode/dirtyhikes-server.git"
+  },
+  "author": "Adrian Sonnenschein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slippynode/dirtyhikes-server/issues"
+  },
+  "homepage": "https://github.com/slippynode/dirtyhikes-server",
+  "dependencies": {
+    "bookshelf": "0.7.9",
+    "knex": "0.7.3",
+    "pg": "4.2.0"
+  }
+}

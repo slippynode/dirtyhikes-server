@@ -1,0 +1,12 @@
+{
+  "db": {
+    "client": "postgres",
+    "connection": {
+      "host": "127.0.0.1",
+      "user": "dirtyhikesuser",
+      "password": "password",
+      "database": "dirtyhikesdb",
+      "charset": "utf8"
+    }
+  }
+}
