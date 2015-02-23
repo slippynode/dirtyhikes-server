@@ -18,7 +18,10 @@
   "homepage": "https://github.com/slippynode/dirtyhikes-server",
   "dependencies": {
     "bookshelf": "0.7.9",
+    "express": "4.11.2",
     "knex": "0.7.3",
-    "pg": "4.2.0"
+    "lodash": "3.3.0",
+    "pg": "4.2.0",
+    "when": "3.7.2"
   }
 }
